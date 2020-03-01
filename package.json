@@ -1,0 +1,20 @@
+{
+  "name": "discordjs-tools",
+  "description": "A easily configurable DiscordJS.",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "author": "acar02",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acar02/discordjs-tools/issues"
+  },
+  "homepage": "https://github.com/acar02/discordjs-tools#readme",
+  "unpkg": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acar02/discordjs-tools.git"
+  },
+  "dependencies": {
+    "discord.js": "latest"
+  }
+}
